@@ -4,7 +4,7 @@
 
 > docker network inspect
 
-> docker network create 
+> docker network create --driver
 
 > docker network connect 
 
